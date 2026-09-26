@@ -1,0 +1,9 @@
+# ---------- 前端 .dockerignore ----------
+node_modules
+dist
+.git
+.gitignore
+Dockerfile
+.dockerignore
+npm-debug.log
+*.local
